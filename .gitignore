@@ -58,7 +58,6 @@ bin
 
 node_modules/**
 typings/**
-**/*.js
 **/*.map
 npm-debug.log*
 dist/**
