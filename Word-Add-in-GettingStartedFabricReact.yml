@@ -1,0 +1,21 @@
+### YamlMime:Sample
+sample:
+- name: Get started with Office UI Fabric React in Office Add-ins
+  path: ''
+  description: Using Office UI Fabric React to build the UX of your Office Add-in ensures that your add-in looks like a natural extension of Office. This sample demonstrates how to use Office UI Fabric React components in an add-in.
+  readme: ''
+  generateZip: FALSE
+  isLive: TRUE
+  technologies:
+  - Office Add-in
+  - Fabric React
+  azureDeploy: ''
+  author: reezali
+  platforms: []
+  languages:
+  - JavaScript
+  - Node.js
+  extensions:
+    products:
+    - Word
+    scenarios: []
