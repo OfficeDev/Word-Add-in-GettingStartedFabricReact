@@ -1,3 +1,19 @@
+---
+topic: sample
+products:
+- Word
+- Office 365
+languages:
+- TypeScript
+- JavaScript
+- Node.js
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  - Office UI Fabric
+  createdDate: 5/9/2017 4:54:18 PM
+---
 # Get started with Office UI Fabric React in Office Add-ins
 
 Using Office UI Fabric React to build the UX of your Office Add-in ensures that your add-in looks like a natural extension of Office. This sample demonstrates how to use Office UI Fabric React components in an add-in.   
