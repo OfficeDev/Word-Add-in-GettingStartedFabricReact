@@ -1,20 +1,6 @@
----
-page_type: sample
-products:
-- office-word
-- office-365
-languages:
-- typescript
-- javascript
-- nodejs
-extensions:
-  contentType: samples
-  technologies:
-  - Add-ins
-  - Office UI Fabric
-  createdDate: 5/9/2017 4:54:18 PM
----
-# Get started with Office UI Fabric React in Office Add-ins
+# [ARCHIVED] Get started with Office UI Fabric React in Office Add-ins
+
+**Note:** This repo is archived and no longer actively maintained. Security vulnerabilities may exist in the project, or its dependencies. If you plan to reuse or run any code from this repo, be sure to perform appropriate security checks on the code or dependencies first. Do not use this project as the starting point of a production Office Add-in. Always start your production code by using the Office/SharePoint development workload in Visual Studio, or the [Yeoman generator for Office Add-ins](https://github.com/OfficeDev/generator-office), and follow security best practices as you develop the add-in. 
 
 Using Office UI Fabric React to build the UX of your Office Add-in ensures that your add-in looks like a natural extension of Office. This sample demonstrates how to use Office UI Fabric React components in an add-in.   
 
